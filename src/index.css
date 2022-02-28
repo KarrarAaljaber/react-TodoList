@@ -59,6 +59,10 @@ label{
   border: 2px solid;
   background-color: snow;
 }
+.todo h3{
+  overflow-wrap: break-word;
+
+}
 .Todos {
   display: flex;
   flex-direction: row;
